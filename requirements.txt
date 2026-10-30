@@ -1,0 +1,9 @@
+streamlit>=1.37
+transformers>=4.43
+accelerate
+sentence-transformers
+scikit-learn
+nltk
+plotly
+pandas
+numpy
